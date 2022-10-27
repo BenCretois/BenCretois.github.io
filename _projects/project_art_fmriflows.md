@@ -1,9 +1,9 @@
 ---
 layout: page
-title: fMRIflows logo
-description: How the creation of the fMRIflows logo came to be.
+title: CarbonViewer
+description: a R Shiny application designed to calculate and visualize the amount of carbon stored in a given peatland area.
 img: assets/img/art_logo_fmriflows.gif
-redirect: /blog/2019/fmriflows_logo/
+redirect: https://carbonviewer.nina.no/
 importance: 2
 category: art
 ---

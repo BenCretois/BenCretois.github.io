@@ -17,9 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a **researcher** at the [Norwegian Institute for Nature Research]() working at the intersection of artificial intelligence, statistics, bioacoustics and more generally biodiversity conservation.
+I am a **researcher** at the [Norwegian Institute for Nature Research](https://www.nina.no/english/home) working at the intersection of artificial intelligence, statistics, bioacoustics and more generally biodiversity conservation.
 
-My **interests** lies in using and developing methods for better biodiversity monitoring. During my PhD I have worked on improving the way Citizen Science can be used to infer species characteristics. In my current position I primarily develop deep learning algorithms for species detections on both camera trap pictures and audio recordings.
+Being a member of the **environmental data (Miljødata) team**, my work focus on developing AI algorithms for biodiversity conservation in general. I am particularly interested in using AI in **bioacoustic** and I develop models that aims at detecting anthropogenic noise such as human voice. I am also developing guidelines for using supercomputers (UNINETT Sigma2 in particular) as well as the associated technologies (e.g. containers, softwares for parallelizing AI workflows etc.).
+
+I am also very found of grappling sports and in particular wrestling and brazilian jiu jitsu and when not at work I am usually on the mat trying some fancy takedowns 🤼‍♂️
+
+I am always open for new collaborations so don't hesitate to contact me by mail, twitter or any other medium.
 
 
-**My passion** for my work stems from a general curiosity and deep desire to understand complex systems, and the wish to keep up with the potential of and challenges around artificial intelligence.
