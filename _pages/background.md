@@ -8,51 +8,29 @@ nav: true
 ___
 ## Professional Experience
 
-<p style="font-size:0.85rem; margin-bottom: 0">2022 - present</p>
-<p style="font-size:1.25rem; margin-bottom: 0"><b>Machine Learning Staff Engineer</b> · <i>ams OSRAM, Martigny</i></p>
+<p style="font-size:0.85rem; margin-bottom: 0">2021 - present</p>
+<p style="font-size:1.25rem; margin-bottom: 0"><b>Researcher</b> · <i>Norwegian Institute for Nature Research, Trondheim</i></p>
 
-As a researcher in the Artificial Intelligence and Machine Learning team in the Innovation Office of <a href="https://ams-osram.com/">ams OSRAM</a>, I work on several projects in the field of computer vision and signal processing in general. I am using data from vertical-cavity surface-emitting lasers (VCSELs) and combining it with advanced signal processing and machine learning routines to improve the performance, expand the capabilities, and reduce the resource requirements of next-generation 3D sensing and scene recognition applications. In particular, but not exclusively, I strive to improve the real-time capabilities of direct time-of-flight (dToF) and next-generation sensor technologies, such as self-mixing interferometry (SMI), to provide low-power, high measurement accuracy sensor technologies at very high speed.
+As a researcher in the "environmental data" (Miljødata) team, my work focus on developing AI algorithms for biodiversity conservation in general. I am particularly interested in using AI in bioacoustic and I develop models that aims at detecting anthropogenic noise such as human voice. I am also developing guidelines for using supercomputers (UNINETT Sigma2 in particular) as well as the associated technologies (e.g. containers, softwares for parallelizing AI workflows etc.).
 
-<p style="font-size:0.85rem; margin-bottom: 0">2019 - 2022</p>
-<p style="font-size:1.25rem; margin-bottom: 0"><b>Data Science Course Developer & Instructor</b> · <i>EPFL, Lausanne</i></p>
+<p style="font-size:0.85rem; margin-bottom: 0">2018 - 2021</p>
+<p style="font-size:1.25rem; margin-bottom: 0"><b>Assistant lecturer</b> · <i>NTNU, Trondheim</i></p>
 
-**Content director** for <a href="https://www.thats-ai.org/">That's AI</a>, an informative online platform about Artificial Intelligence in three languages. Managing tasks involved coordination with marketing, front-end developers, business customers, and supervision of multiple content creators, web designers, language translators and illustrators.<br>**Work included**: Course developer and instructor for the "Applied Data Science: Machine Learning" program at the EPFL Extension School. Work included advising participants and guiding their proof of concepts from numerous industries, optimization of company internal processes, development of new teaching tools, creation and execution of multiple AI workshops, hackathons, and conference talks, plus collaborating with academic and private sector partners to identify opportunities for data-driven solutions across multiple industries.
-
-<p style="font-size:0.85rem; margin-bottom: 0">2014 - 2016</p>
-<p style="font-size:1.25rem; margin-bottom: 0"><b>Research Collaborator in Neuroscience & Neuroimaging</b> · <i>CHUV, Lausanne</i></p>
-
-Development, execution and analysis of +8 neuroimaging experiments using MRI, EEG and eye-tracking, plus general software development and teaching.
-
-<p style="font-size:0.85rem; margin-bottom: 0">2013 - 2014</p>
-<p style="font-size:1.25rem; margin-bottom: 0"><b>Research Assistant in Neuroscience & Neuroimaging</b> · <i>INAPIC, Zurich</i></p>
-
-Development and maintenance of analysis software of behavioral, physiological & MRI data. Extensive support to research collaborators for data analysis.
-
-<p style="font-size:0.85rem; margin-bottom: 0">2011 - 2011</p>
-<p style="font-size:1.25rem; margin-bottom: 0"><b>Internship at Massachusetts Institute of Technology</b> · <i>MIT, Cambridge, USA</i></p>
-
-Design and execution of experiments, development of neuroimaging software, technical support and teaching. 1-month extension due to very satisfactory work.
-
-<p style="font-size:0.85rem; margin-bottom: 0">2012 - 2017</p>
-<p style="font-size:1.25rem; margin-bottom: 0"><b>Special officer in the Psychological-Pedagogical Service of the Armed Forces</b> · <i>Swiss Army</i></p>
-Counseling, stress prevention and guidance to soldiers and cadre of the Armed Forces.
-
-<p style="font-size:0.85rem; margin-bottom: 0">2007 - 2014</p>
-<p style="font-size:1.25rem; margin-bottom: 0"><b>Clerk in payment transactions</b> · <i>Migros Bank, Zurich</i></p>
-
-Data analysis for the purpose of anomaly detection and process optimization.
+I assisted in teaching statistic and GIS classes at Master level. 
 
 <br>
 
 ___
 ## Education
 
-<p style="font-size:0.85rem; margin-bottom: 0">2016 - 2021</p>
-<p style="font-size:1.25rem; margin-bottom: 0"><b>PhD in Neuroscience</b> · <i>University of Lausanne</i></p>
-**Thesis**: <a href="/assets/pdf/Thesis_2021_PhD_Notter.pdf">Innovation and standardization of processing pipelines for functional MRI data analysis</a><br>**Work**: Development of 8 neuroimaging toolboxes to facilitate the processing and analysis of MRI, EEG and eye-tracking data, with a focus on human cognitive mechanisms, such as multisensory integration and rhythm perception. Planning and execution of 7 research studies, including the acquisition of various datasets, using novel measuring techniques. Analysis methods included classical statistical analysis, as well as machine learning approaches.
+<p style="font-size:0.85rem; margin-bottom: 0">2018 - 2021</p>
+<p style="font-size:1.25rem; margin-bottom: 0"><b>PhD in Geography</b> · <i>NTNU, Trondheim</i></p>
+**Thesis**: <a href="/assets/pdf/BenjaminCretois_PhD.pdf">Transforming the use of citizen
+science data for biodiversity
+conservation at different scales</a><br>**Work**: Development of 8 neuroimaging toolboxes to facilitate the processing and analysis of MRI, EEG and eye-tracking data, with a focus on human cognitive mechanisms, such as multisensory integration and rhythm perception. Planning and execution of 7 research studies, including the acquisition of various datasets, using novel measuring techniques. Analysis methods included classical statistical analysis, as well as machine learning approaches.
 
-<p style="font-size:0.85rem; margin-bottom: 0">2012 - 2014</p>
-<p style="font-size:1.25rem; margin-bottom: 0"><b>Master of Science in Neuroscience with minor in Neuroinformatics</b> · <i>University of Zurich</i></p>
+<p style="font-size:0.85rem; margin-bottom: 0">2016 - 2018</p>
+<p style="font-size:1.25rem; margin-bottom: 0"><b>Master in Law and Environment</b> · <i>University of Zurich</i></p>
 
 **Thesis**: <a href="/assets/pdf/Thesis_2014_Master_Notter.pdf">Differences and similarities between the brains of children with attention deficit hyperactivity disorder and children with autism spectrum disorder - An analysis of 700 anatomical MRI scans</a><br>**Lectures** in neuroinformatics, neurobiology, cognitive psychology, neuroimaging methods, neural networks, models of computation & computational vision.
 
