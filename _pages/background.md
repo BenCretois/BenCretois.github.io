@@ -29,7 +29,7 @@ ___
 <p style="font-size:1.25rem; margin-bottom: 0"><b>PhD in Geography</b> · <i>NTNU, Trondheim</i></p>
 **Thesis**: <a href="/assets/pdf/BenjaminCretois_PhD.pdf">Transforming the use of citizen
 science data for biodiversity
-conservation at different scales</a><br>**Summary**: Development of 8 neuroimaging toolboxes to facilitate the processing and analysis of MRI, EEG and eye-tracking data, with a focus on human cognitive mechanisms, such as multisensory integration and rhythm perception. Planning and execution of 7 research studies, including the acquisition of various datasets, using novel measuring techniques. Analysis methods included classical statistical analysis, as well as machine learning approaches.
+conservation at different scales</a><br>**Summary**: The aim of this thesis is to understand the citizen science observation generation process and then assess the performance of citizen science observations to infer ecological properties at different ecological scales. 
 
 <p style="font-size:0.85rem; margin-bottom: 0">2016 - 2018</p>
 <p style="font-size:1.25rem; margin-bottom: 0"><b>Master in Law and Environment</b> · <i>University of Rennes</i></p>
