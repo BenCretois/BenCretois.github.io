@@ -12,8 +12,6 @@ ___
 <p style="font-size:1.25rem; margin-bottom: 0"><b>Researcher</b> · <i>Norwegian Institute for Nature Research, Trondheim</i></p>
 
 - Using AI for biodiversity conservation problems (with a focus on bioacoustics and computer vision)
-- Writing guidelines for using supercomputers
-- Building R-Shiny applications
 
 <p style="font-size:0.85rem; margin-bottom: 0">2018 - 2021</p>
 <p style="font-size:1.25rem; margin-bottom: 0"><b>Assistant lecturer</b> · <i>NTNU, Trondheim</i></p>

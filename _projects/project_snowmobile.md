@@ -5,5 +5,5 @@ description: A model to detect whether snowmobiles are present in an acoustic da
 img: assets/img/snowmobile.jpg
 redirect: https://github.com/NINAnor/snowmobile_analyzer
 importance: 2
-category: AI
+category: Machine Learning
 ---
