@@ -50,7 +50,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: bencretois # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: benjamincretois # your Twitter handle
+twitter_username: # your Twitter handle
 linkedin_username: benjamin-cretois-187a9483 # your LinkedIn user name
 scholar_userid: 40ZX7XUAAAAJ&hl # your Google Scholar ID
 orcid_id: 0000-0001-8668-3321 # your ORCID ID
@@ -66,7 +66,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  The easiest way to reach me is via e-mail, LinkedIn or Twitter. The fastest way is with beer 🍻️.
+  The easiest way to reach me is via e-mail or LinkedIn. The fastest way is with beer 🍻️.
 
 google_analytics: # out your google-analytics code
 panelbear_analytics: #XXXXXXXXX # panelbear analytics site ID
